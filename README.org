@@ -1,0 +1,12 @@
+#+TITLE: Suckless Everything
+#+AUTHOR: Finnbyte
+
+* Suckless Everything
+My dotfiles for the most important suckless software for my workflow
+
+* Software included
+- dwm - dynamic window manager
+- dwmblocks - Improve dwm's bar
+- floating-dwm - dwm but made to be a floating wm (WIP)
+- st - suckless terminal emulator
+- surf - suckless web browser
