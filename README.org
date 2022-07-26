@@ -1,7 +1,6 @@
 #+TITLE: Suckless Everything
 #+AUTHOR: Finnbyte
 
-* Suckless Everything
 My dotfiles for the most important suckless software for my workflow
 
 * Software included
