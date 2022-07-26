@@ -10,3 +10,12 @@ My dotfiles for the most important suckless software for my workflow
 - floating-dwm - dwm but made to be a floating wm (WIP)
 - st - suckless terminal emulator
 - surf - suckless web browser
+- sfm - simple file manager (which I sometimes use)
+  
+* Note about TUI file managers
+There are multiple TUI file managers in this repo, and I am not sure which of them to use daily.
+I've been trying out multiple different, in both *philosophy* and *functionality*, file managers but it will take
+some time to understand which of them suits my needs best.
+
+I'll have all the ones I like the most in this repo.
+  
